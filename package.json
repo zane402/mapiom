@@ -1,0 +1,8 @@
+{
+  "name": "robo-violet-3d",
+  "version": "1.0.0",
+  "description": "Robo Violet 3D - jeu d'aventure sur navigateur",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
